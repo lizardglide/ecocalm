@@ -1,4 +1,4 @@
-package com.capgemini.ecocalm.document;
+package com.capgemini.ecocalm.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

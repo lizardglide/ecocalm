@@ -1,7 +1,7 @@
-package com.capgemini.ecocalm.data;
+package com.capgemini.ecocalm.config;
 
-import com.capgemini.ecocalm.UserRepository;
-import com.capgemini.ecocalm.document.User;
+import com.capgemini.ecocalm.repository.UserRepository;
+import com.capgemini.ecocalm.entity.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
